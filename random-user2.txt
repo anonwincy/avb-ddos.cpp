@@ -1,0 +1,23 @@
+edge|Mozilla/5.0 (Windows; U; Windows NT 10.0;) AppleWebKit/603.20 (KHTML, like Gecko) Chrome/49.0.2309.149 Safari/600.2 Edge/12.25977
+mobile|Mozilla/5.0 (iPod; CPU iPod OS 7_4_1; like Mac OS X) AppleWebKit/600.37 (KHTML, like Gecko)  Chrome/52.0.3134.195 Mobile Safari/601.6
+mac|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_9) Gecko/20130401 Firefox/67.4
+explorer|Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64 Trident/5.0)
+linux|Mozilla/5.0 (Linux x86_64) Gecko/20100101 Firefox/71.6
+mac|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_0_8; en-US) AppleWebKit/603.41 (KHTML, like Gecko) Chrome/54.0.2761.206 Safari/533
+windows|Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 10.4; x64; en-US Trident/7.0)
+firefox|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_2_9) Gecko/20100101 Firefox/73.1
+explorer|Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.0; x64 Trident/6.0)
+mac|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_9_3; en-US) Gecko/20130401 Firefox/62.3
+firefox|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_1_5) Gecko/20100101 Firefox/67.5
+edge|Mozilla/5.0 (Windows NT 10.2;; en-US) AppleWebKit/603.50 (KHTML, like Gecko) Chrome/48.0.1269.109 Safari/537.9 Edge/12.45853
+mobile|Mozilla/5.0 (iPod; CPU iPod OS 10_5_0; like Mac OS X) AppleWebKit/603.31 (KHTML, like Gecko)  Chrome/48.0.1179.254 Mobile Safari/603.1
+linux|Mozilla/5.0 (Linux; U; Linux i680 ; en-US) AppleWebKit/601.42 (KHTML, like Gecko) Chrome/53.0.2703.216 Safari/537
+linux|Mozilla/5.0 (Linux; U; Linux i654 ) Gecko/20130401 Firefox/74.8
+android|Mozilla/5.0 (Linux; Android 6.0.1; HTC One M8 Pro Build/MRA58K) AppleWebKit/533.32 (KHTML, like Gecko)  Chrome/53.0.3661.330 Mobile Safari/602.8
+mac|Mozilla/5.0 (Macintosh; Intel Mac OS X 8_1_1; en-US) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/51.0.3551.260 Safari/602
+edge|Mozilla/5.0 (Windows; U; Windows NT 10.1; Win64; x64) AppleWebKit/602.46 (KHTML, like Gecko) Chrome/51.0.1910.258 Safari/600.8 Edge/8.44194
+linux|Mozilla/5.0 (Linux; U; Linux x86_64) AppleWebKit/536.47 (KHTML, like Gecko) Chrome/51.0.3653.134 Safari/602
+explorer|Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.1; Win64; x64; en-US Trident/7.0)
+chrome|Mozilla/5.0 (Windows; U; Windows NT 6.2;) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/51.0.3414.160 Safari/600
+explorer|Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.3;; en-US Trident/5.0)
+explorer|Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 6.2; x64; en-US Trident/7.0)
