@@ -3,7 +3,7 @@
 <body>
   <h1>Anonymous Vibes Bangladesh DDoS Tool</h1>
   
-  <h2>Compilation Instructions</h2>
+  <h2>Compilation Instructions (Optional)</h2>
   <pre><code>g++ -o avb-ddos avb-ddos.cpp -lcurl -lpthread</code></pre>
 
   <h2>Basic Usage Syntax</h2>
